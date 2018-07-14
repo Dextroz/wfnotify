@@ -1,5 +1,6 @@
 # wfnotify
 ![wfnotify](my_logo.png)
+
 A PyQt5 app for viewing Warframe API data.
 
 ## Disclaimer
