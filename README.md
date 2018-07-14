@@ -5,7 +5,7 @@ A PyQt5 app for viewing Warframe API data.
 
 ## Disclaimer
 * This build of the app is currently under active development and is not final.
-* I did not create PyQt5. See [Acknowledgments](#Acknowledgments)
+* I did not create PyQt5. See [Acknowledgments](#acknowledgments)
 
 ## Current Features
   1. Fetch current Cetustime (Check if night or day).
