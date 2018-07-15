@@ -50,4 +50,5 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](LICENSE) 
 
 ## Acknowledgments
 Riverbank Computing Limited created [PyQt5](https://riverbankcomputing.com/software/pyqt/download5)
+
 Freeze (package) Python programs into stand-alone executables - [pyinstaller](http://www.pyinstaller.org)
