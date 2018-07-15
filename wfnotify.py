@@ -1,12 +1,11 @@
 try:
     # Imports required for GUI application.
-    import sys
     from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QHBoxLayout, QGroupBox, QVBoxLayout, QTextEdit
     from PyQt5.QtCore import pyqtSlot
     from PyQt5.QtGui import QIcon
     # For contacting Warframe API.
     import requests
-    # Partial removed. No longer used.
+    # Partial and sys removed. No longer used.
 except ImportError:
     print("Failed to import required packages.")
 
@@ -172,6 +171,6 @@ class App(QWidget):
 
 
 if __name__ == "__main__":
-    app = QApplication(sys.argv)
+    app = QApplication([])
     ex = App()
-    sys.exit(app.exec_())
+    app.exec_()
