@@ -18,6 +18,7 @@ wfnotify is written in Python 3 so it is **REQUIRED**.
 
 wfnotify requires the following dependencies:
   1. * [PyQt5](https://riverbankcomputing.com/software/pyqt/download5) - A Python application framework.
+  2. * [Requests](https://github.com/requests/requests/) - Python HTTP Requests for Humans ✨🍰✨
 
 ## Authors -- Contributors
 
