@@ -63,7 +63,7 @@ Extract and navigate to the project directory and run wf10toast by executing the
 
 ## Authors -- Contributors
 
-* **Dextroz** - *Author of project* - [Dextroz](https://github.com/Dextroz)
+* **dbrennand** - *Author of project* - [dbrennand](https://github.com/dbrennand)
 
 ## License
 
